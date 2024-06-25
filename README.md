@@ -21,22 +21,16 @@ The linear regression model provides the following coefficients:
 Intercept: 
 𝛽
 0
-β 
-0
 ​
  
 Slope (Age coefficient): 
 𝛽
 1
-β 
-1
 ​
  
 Prediction for a 70-Year-Old:
 
-Using the model 
-Charges
-=
+Using the model Charges=
 𝛽
 0
 +
