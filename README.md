@@ -17,7 +17,6 @@ Prediction for 70-Year-Old: The predicted charges for a 70-year-old individual a
 
 Model Coefficients:
 
-The linear regression model provides the following coefficients:
 Intercept: 
 𝛽
 0
